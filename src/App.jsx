@@ -2,7 +2,7 @@ import Buttons from "./components/Buttons";
 import Table from "./components/Table";
 import Banner from "./components/Banner";
 import {useState} from "react";
-import satData from "./components/satData"; //Unsure if this is the correct way to import this?
+import satData from "./components/satData";
 
 
 function App() {
