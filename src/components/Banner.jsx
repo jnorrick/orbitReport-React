@@ -1,7 +1,9 @@
+import "./styling.css"
+
 const Banner = () => {
     return (
       <div>
-        <header>Orbit Report</header>
+        <header><h1>Orbit Report</h1></header>
         <p>Click on the buttons to see the satellites in that orbit type</p>
       </div>
     );
